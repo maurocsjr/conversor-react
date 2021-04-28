@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar {
+  box-shadow: 0 0 3px black;
+  margin-bottom: 20px;
+}
+
+.logo {
+  max-width: 40px;
+  max-height: 30px;
+  margin-right: 10px;
+}
+
+.container {
+  margin-bottom: 20px;
+}
+
+.logo-texto {
+  max-width: 70px;
+  margin-right: 10px;
+}
+
+.central {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.central-texto {
+  font-size: 50px;
+}
+
+.central-descricao {
+  font-size: 20px;
+}
